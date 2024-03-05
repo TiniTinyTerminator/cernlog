@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c708cdfc403c602a",
+        "id": "6337b1fd01633a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "99f2185bd1129b3b",
+            "id": "5492de0cc809275c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "overview.canvas",
+                "viewState": {
+                  "x": -3.623339850857775,
+                  "y": 395.23538896897367,
+                  "zoom": -0.4075341493340315
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "overview.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "overview.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "overview.canvas"
+          }
         }
       }
     ],
@@ -126,9 +137,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "99f2185bd1129b3b",
+  "active": "5492de0cc809275c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-05 22.44.55.excalidraw.md",
-    "Excalidraw"
+    "Untitled.canvas",
+    "overview.canvas",
+    "Excalidraw/Drawing 2024-03-05 22.59.09.excalidraw.md",
+    "PyDAQ.md",
+    "Excalidraw",
+    "IPbus.md",
+    "Daily notes/2024-03-05.md",
+    "Excalidraw/Drawing 2024-03-05 22.44.55.excalidraw.md"
   ]
 }
