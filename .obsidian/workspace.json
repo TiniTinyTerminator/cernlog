@@ -35,9 +35,11 @@
             "id": "3d8b2196a0a38fb3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md"
+                "file": "uHal.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
+                "file": "uHal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
+                "file": "uHal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +174,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md"
+                "file": "uHal.md"
               }
+            }
+          },
+          {
+            "id": "97472edfe43a346e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -199,14 +209,17 @@
   },
   "active": "3d8b2196a0a38fb3",
   "lastOpenFiles": [
-    "Daily notes/2024-03-06.md",
-    "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
-    "Daily notes/2024-03-05.md",
-    "IPbus.md",
-    "Untitled.canvas",
-    "PyDAQ.md",
-    "uHal.md",
     "Overview.canvas",
+    "IPbus.md",
+    "images/ipBus_topology.png",
+    "uHal.md",
+    "PyDAQ.md",
+    "images",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
+    "Daily notes/2024-03-06.md",
+    "Daily notes/2024-03-05.md",
     "Excalidraw/Drawing 2024-03-05 22.59.09.excalidraw.md",
     "Untitled.md",
     "Excalidraw",

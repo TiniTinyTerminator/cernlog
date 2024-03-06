@@ -50,7 +50,7 @@
 ```
 ## Usage
 
-Communicating with the IPbus is done in a number of steps.
+Communicating with the [[IPbus]] is done in a number of steps.
 
 1. Open an connection to the device using the ```ConnectionManager```.
 2. Using the ```HwInterface``` class, retrieve any registers mentioned in the XML file.
