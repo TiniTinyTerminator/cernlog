@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uHal.md",
+                "file": "Daily notes/2024-03-06.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3d8b2196a0a38fb3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md"
               }
             }
           },
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uHal.md",
+                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uHal.md",
+                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uHal.md"
+                "file": "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md"
               }
             }
           }
@@ -187,14 +197,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "735ffaa489f8b4e8",
+  "active": "3d8b2196a0a38fb3",
   "lastOpenFiles": [
-    "PyDAQ.md",
-    "Overview.canvas",
-    "IPbus.md",
-    "uHal.md",
     "Daily notes/2024-03-06.md",
+    "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
     "Daily notes/2024-03-05.md",
+    "IPbus.md",
+    "Untitled.canvas",
+    "PyDAQ.md",
+    "uHal.md",
+    "Overview.canvas",
     "Excalidraw/Drawing 2024-03-05 22.59.09.excalidraw.md",
     "Untitled.md",
     "Excalidraw",
