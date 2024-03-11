@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e4dc0f9c288b578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PyDAQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735ffaa489f8b4e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2024-03-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d8b2196a0a38fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uHal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeffd70dba889f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPbus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "caa9b92518ec5f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uHal.md",
-                "mode": "source",
+                "file": "Personal/Mathematics practice for test.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d989e7e20ccdd746",
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uHal.md",
+                "file": "Personal/Mathematics practice for test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uHal.md",
+                "file": "Personal/Mathematics practice for test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,57 +126,66 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uHal.md"
+                "file": "Personal/Mathematics practice for test.md"
               }
             }
           },
           {
-            "id": "97472edfe43a346e",
+            "id": "995bd9e9143df69f",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "gpt3-notes:GPT-3 Notes": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3d8b2196a0a38fb3",
+  "active": "caa9b92518ec5f14",
   "lastOpenFiles": [
-    "Overview.canvas",
-    "IPbus.md",
-    "images/ipBus_topology.png",
-    "uHal.md",
-    "PyDAQ.md",
-    "images",
-    "Untitled.canvas",
-    "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
-    "Daily notes/2024-03-06.md",
-    "Daily notes/2024-03-05.md",
-    "Excalidraw/Drawing 2024-03-05 22.59.09.excalidraw.md",
-    "Untitled.md",
+    "Recording 20240309134313.webm",
+    "Excalidraw/Drawing 2024-03-09 13.43.08.excalidraw.md",
+    "Personal/Mathematics practice for test.md",
+    "Excalidraw/Drawing 2024-03-09 13.42.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-09 13.42.53.excalidraw.md",
     "Excalidraw",
-    "2024-03-05.md",
+    "Personal/Mathematics practice for test.html",
+    "Images/IPbus_topology.png",
+    "Personal",
+    "CERN notes/uHal.md",
+    "CERN notes/IPbus.md",
+    "CERN notes/Overview.canvas",
+    "CERN notes/PyDAQ.md",
+    "Daily notes/2024-03-05.md",
+    "Daily notes/2024-03-06.md",
+    "CERN notes",
+    "Images",
+    "Excalidraw/Drawing 2024-03-06 13.43.35.excalidraw.md",
+    "CERN/PyDAC.md",
     "TODO.md",
+    "PyDAC.md",
+    "CERN/uHal.md",
+    "CERN",
+    "CERN/TODO.md",
+    "Untitled.canvas",
     "Daily notes",
     "Untitled 1.canvas"
   ]
