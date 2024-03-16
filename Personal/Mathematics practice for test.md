@@ -1,5 +1,4 @@
 __deadline: 24th of April__
-
 # Subjects
 
 ## 1 Functions and plots
@@ -25,36 +24,36 @@ __deadline: 24th of April__
 
 ### 1.3 Asymptoten en limieten
 
-- [ ] 1.3.1 [Karakteristieken](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b31&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b31.pdf)
-- [ ] 1.3.2 [Asymptoten](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b32&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b32.pdf)
-- [ ] 1.3.3 [Limieten](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b33&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b33.pdf)
-- [ ] 1.3.4 [Continuïteit](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b34&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b34.pdf)
-- [ ] 1.3.5 [Totaalbeeld](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b35&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b35.pdf)
+- [x] 1.3.1 [Karakteristieken](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b31&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b31.pdf)
+- [x] 1.3.2 [Asymptoten](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b32&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b32.pdf)
+- [x] 1.3.3 [Limieten](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b33&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b33.pdf)
+- [x] 1.3.4 [Continuïteit](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b34&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b34.pdf)
+- [x] 1.3.5 [Totaalbeeld](https://content.math4all.nl/view?comp=vb-b3&subcomp=vb-b35&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b35.pdf)
 
 ### 1.4 Exponentiële functies
 
-- [ ] 1.4.1 [Exponentiële groei](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b41&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b41.pdf)
-- [ ] 1.4.2 [Reële exponenten](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b42&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b42.pdf)
-- [ ] 1.4.3 [Exponenten en machten](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b43&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b43.pdf)
-- [ ] 1.4.4 [Exponentiële functies](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b44&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b44.pdf)
-- [ ] 1.4.5 [Meer exponentiële functies](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b45&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b45.pdf)
-- [ ] 1.4.6 [Totaalbeeld](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b46&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b46.pdf)
+- [x] 1.4.1 [Exponentiële groei](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b41&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b41.pdf)
+- [x] 1.4.2 [Reële exponenten](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b42&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b42.pdf)
+- [x] 1.4.3 [Exponenten en machten](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b43&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b43.pdf)
+- [x] 1.4.4 [Exponentiële functies](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b44&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b44.pdf)
+- [x] 1.4.5 [Meer exponentiële functies](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b45&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b45.pdf)
+- [x] 1.4.6 [Totaalbeeld](https://content.math4all.nl/view?comp=vb-b4&subcomp=vb-b46&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b46.pdf)
 
 ### 1.5 Logaritmische functies
 
-- [ ] 1.5.1 [Logaritmen](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b51&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b51.pdf)
-- [ ] 1.5.2 [Eigenschappen](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b52&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b52.pdf)
-- [ ] 1.5.3 [Logaritmische schaal](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b53&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b53.pdf)
-- [ ] 1.5.4 [Logaritmische functies](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b54&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b54.pdf)
-- [ ] 1.5.5 [Logaritmische vergelijkingen](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b55&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b55.pdf)
-- [ ] 1.5.6 [Totaalbeeld](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b56&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b56.pdf)
+- [x] 1.5.1 [Logaritmen](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b51&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b51.pdf)
+- [x] 1.5.2 [Eigenschappen](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b52&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b52.pdf)
+- [x] 1.5.3 [Logaritmische schaal](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b53&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b53.pdf)
+- [x] 1.5.4 [Logaritmische functies](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b54&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b54.pdf)
+- [x] 1.5.5 [Logaritmische vergelijkingen](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b55&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b55.pdf)
+- [x] 1.5.6 [Totaalbeeld](https://content.math4all.nl/view?comp=vb-b5&subcomp=vb-b56&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b56.pdf)
 
 ### 1.6 Machtsfuncties
 
-- [ ] 1.6.1 [Machten](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b61&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b61.pdf)
-- [ ] 1.6.2 [Machtfuncties](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b62&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b62.pdf)
-- [ ] 1.6.3 [Kwadratische functies](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b63&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b63.pdf)
-- [ ] 1.6.4 [De abc-formule](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b64&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b64.pdf)
+- [x] 1.6.1 [Machten](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b61&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b61.pdf)
+- [x] 1.6.2 [Machtfuncties](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b62&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b62.pdf)
+- [x] 1.6.3 [Kwadratische functies](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b63&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b63.pdf)
+- [x] 1.6.4 [De abc-formule](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b64&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b64.pdf)
 - [ ] 1.6.5 [Meer machtsfuncties](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b65&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b65.pdf)
 - [ ] 1.6.6 [Totaalbeeld](https://content.math4all.nl/view?comp=vb-b6&subcomp=vb-b66&repo=m4a2015&parent=www.math4all.nl/overzichten/vwo-b/21)[pdf](https://math4all.pragma-pod.nl/resources/section-pdfs/vb-b66.pdf)
 

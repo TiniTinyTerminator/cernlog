@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Mathematics practice for test.md",
-                "mode": "preview",
+                "file": "Personal/workout plan.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Mathematics practice for test.md",
+                "file": "Personal/workout plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Mathematics practice for test.md",
+                "file": "Personal/workout plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Mathematics practice for test.md"
+                "file": "Personal/workout plan.md"
               }
             }
           },
@@ -139,17 +139,17 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "gpt3-notes:GPT-3 Notes": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -161,18 +161,19 @@
   },
   "active": "caa9b92518ec5f14",
   "lastOpenFiles": [
-    "Recording 20240309134313.webm",
-    "Excalidraw/Drawing 2024-03-09 13.43.08.excalidraw.md",
     "Personal/Mathematics practice for test.md",
-    "Excalidraw/Drawing 2024-03-09 13.42.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-09 13.43.08.excalidraw.md",
     "Excalidraw/Drawing 2024-03-09 13.42.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-09 13.42.52.excalidraw.md",
+    "CERN notes/Overview.canvas",
+    "CERN notes/IPbus.md",
+    "Personal/workout plan.md",
+    "Images/IPbus_topology.png",
+    "Recording 20240309134313.webm",
     "Excalidraw",
     "Personal/Mathematics practice for test.html",
-    "Images/IPbus_topology.png",
     "Personal",
     "CERN notes/uHal.md",
-    "CERN notes/IPbus.md",
-    "CERN notes/Overview.canvas",
     "CERN notes/PyDAQ.md",
     "Daily notes/2024-03-05.md",
     "Daily notes/2024-03-06.md",
