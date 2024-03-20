@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de9fc5cbb471e60e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ]
       }
